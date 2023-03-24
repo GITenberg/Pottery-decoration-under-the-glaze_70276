@@ -1,11 +1,16 @@
 _repo: Pottery-decoration-under-the-glaze_70276
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70276-h/images/backcover.jpg
 creator:
   author:
     agent_name: McLaughlin, M. Louise
     gutenberg_agent_id: '55678'
     url: http://www.gutenberg.org/2009/agents/55678
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70276#Pottery-decoration-under-the-glaze
 gutenberg_issued: '2023-03-12'
 identifiers:
   gutenberg: '70276'
